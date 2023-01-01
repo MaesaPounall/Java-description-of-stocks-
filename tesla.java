@@ -132,7 +132,7 @@ public class tesla {
 }
 
 // code description(not the same as the toString method)//
-public void description()
+public void descriptiontsla()
 
 {
     System.out.println(" This code was made to track the most important stock statistics of a given stock, with this case being Tesla Motors (ticker symbol TSLA)");
